@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-@Listeners(Day2.iTest.class)
+
 public class OrangeHrmTest {
 
     WebDriver driver;

@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <listeners>
-        <listener class-name="Day2.iTest"/>
+        <listener class-name="Day2.extentReportManager"/>
     </listeners>
     <test verbose="2" preserve-order="true"
           name="C:/Users/nikshay.mohla/IdeaProjects/untitled/src/test/java/Day2/OrangeHrmTest.java">
